@@ -3,4 +3,6 @@
 
 ## ICT UNESP São José dos Campos
 
+### Prof. Dr. Alexei Essiptchouk
+
 ### Alunos: Fellipe Mira Chaves e Vinicius Gino
