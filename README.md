@@ -1,6 +1,6 @@
 ## Este repositorio foi criado para demonstrar o uso de ferramentas estatisticas durante a disciplina de Laboratório de Fenômenos de transporte
 
-![](https://www.ict.unesp.br/Home/ensino/pos-graduacao/desastresnaturais/logoict_transp.png=100x20)
+![](https://www.ict.unesp.br/Home/ensino/pos-graduacao/desastresnaturais/logoict_transp.png=300x130)
 
 ## ICT UNESP São José dos Campos
 
